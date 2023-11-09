@@ -76,7 +76,7 @@ Welcome to MegaTechFrontier's GitHub repository! We value and appreciate contrib
    - Submit a pull request, following the template and guidelines.
    
 4. **Code of Conduct:**
-   - Read and adhere to our [Code of Conduct](link-to-code-of-conduct.md).
+   - Read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) 
    
 5. **Pull Request Guidelines:**
    - Provide a clear and detailed description of the changes.
