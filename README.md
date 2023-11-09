@@ -7,6 +7,7 @@ Exploring the frontiers of mega-scale technologies and innovations with AI.
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Problems to solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide) 
 - [Guide](#guide)
 - [Roadmap](#roadmap) 
 
@@ -54,6 +55,68 @@ The MegaTechFrontier aims to address and explore solutions for various contempor
 8. **Space Exploration and Colonization:** Solving challenges associated with space exploration, such as sustainability, safety, and establishing habitats on other celestial bodies.
 
 MegaTechFrontier endeavors to highlight, discuss, and contribute to potential solutions for these pressing global issues through the lens of technological innovation and advancement.
+
+# Contributor Guide 
+
+### MegaTechFrontier GitHub Repository Contributor Guide
+
+#### Introduction
+Welcome to MegaTechFrontier's GitHub repository! We value and appreciate contributions from the community to enhance our platform. This guide will help you understand how to contribute effectively.
+
+#### How to Contribute
+1. **Familiarize Yourself with MegaTechFrontier:**
+   - Explore our platform, familiarize yourself with our vision, mission, and ongoing projects.
+   
+2. **Types of Contributions We Welcome:**
+   - Bug fixes, feature development, documentation improvements, and more.
+   
+3. **Steps to Contribute:**
+   - Fork the repository.
+   - Make changes in your forked repository.
+   - Submit a pull request, following the template and guidelines.
+   
+4. **Code of Conduct:**
+   - Read and adhere to our [Code of Conduct](link-to-code-of-conduct.md).
+   
+5. **Pull Request Guidelines:**
+   - Provide a clear and detailed description of the changes.
+   - Ensure your code adheres to our coding standards.
+   - Include tests and documentation for your changes.
+
+6. **Communication Channels:**
+   - Join our Discord/Slack/other communication channel to discuss ideas and get clarifications.
+
+7. **Review Process:**
+   - Your pull request will be reviewed by our team; expect constructive feedback.
+
+8. **Recognition:**
+   - Your contributions will be acknowledged in our contributors' list.
+
+9. **Help and Support:**
+   - Reach out to our team for any questions or assistance.
+
+#### Codebase and Technical Details
+- **Language and Frameworks Used:**
+- **Setting Up the Development Environment:**
+- **Testing Procedures:**
+- **File Structure and Conventions:**
+
+#### Project Roadmap and Issue Tracking
+- **Roadmap Overview:**
+- **Understanding Issues and Projects:**
+- **How to Pick an Issue:**
+- **Claiming an Issue:**
+
+#### License Information
+- **License Type and Permissions:**
+- **Licensing for Contributions:**
+
+#### Additional Resources
+- **Links to Documentation:** (e.g., wiki, developer guides)
+- **Contact Information:**
+
+#### Conclusion
+Thank you for considering contributing to MegaTechFrontier! Your contributions play a vital role in shaping the future of technology. We look forward to collaborating with you!
 
 # Guide 
 
